@@ -1,10 +1,8 @@
 import SucdenLogo from "../assets/Sucden.jpg";
 import BudgetLogo from "../assets/BudgetEnergy.jpg";
-import EALogo from "../assets/EducationAuthority.PNG";
 import EnergiaLogo from "../assets/Energia.png";
 import InvestLogo from "../assets/InvestNI.jpg";
 import SageTraderLogo from "../assets/SageTrader.jpg";
-import HarrowLogo from "../assets/Harrow.png";
 import CIELogo from "../assets/CIE.png";
 import NIELogo from "../assets/NIE.jpg";
 
@@ -31,19 +29,9 @@ export const MenuList = [
     info: "Northern Ireland's Electricity Company",
   },
   {
-    name: <a href="../EducationAuthority">Education Authority</a>,
-    image: EALogo,
-    info: "Education and Youth Services",
-  },
-  {
     name: <a href="../SageTrader">Sage Trader</a>,
     image: SageTraderLogo,
     info: "Investment Service",
-  },
-  {
-    name: <a href="../Harrow">Harrow Council</a>,
-    image: HarrowLogo,
-    info: "London borough council",
   },
   {
     name: <a href="../SmartMetering">Smart Metering</a>,

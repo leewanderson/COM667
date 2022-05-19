@@ -9,9 +9,7 @@ import Energia from "./pages/Energia";
 import Sucden from "./pages/Sucden";
 import InvestNI from "./pages/InvestNI";
 import BudgetEnergy from "./pages/BudgetEnergy";
-import EducationAuthority from "./pages/EducationAuthority";
 import SageTrader from "./pages/SageTrader";
-import Harrow from "./pages/Harrow";
 import SmartMetering from "./pages/SmartMetering";
 import NIE from "./pages/NIE";
 import CIE from "./pages/CIE";
@@ -33,14 +31,11 @@ function App() {
           <Route path="/Sucden" exact element={<Sucden/>} />
           <Route path="/InvestNI" exact element={<InvestNI/>} />
           <Route path="/BudgetEnergy" exact element={<BudgetEnergy/>} />
-          <Route path="/EducationAuthority" exact element={<EducationAuthority/>} />
           <Route path="/SageTrader" exact element={<SageTrader/>} />
-          <Route path="/Harrow" exact element={<Harrow/>} />
           <Route path="/SmartMetering" exact element={<SmartMetering/>} />
           <Route path="/NIE" exact element={<NIE/>} />
           <Route path="/CIE" exact element={<CIE/>} />
         </Routes>
-        <Footer />
       </Router>
     </div>
   );

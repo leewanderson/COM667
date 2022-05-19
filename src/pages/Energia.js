@@ -1,6 +1,7 @@
 import React from "react";
 import EnergiaImage from "../assets/Energia.png";
 import "../styles/Project.css";
+import Footer from "../components/Footer";
 
 function Energia() {
 return (
@@ -12,7 +13,7 @@ return (
         
 
 <div className="aboutBottom">
-<h1>Energia Monitoring</h1>
+<h1>Energia Onboarding</h1>
     <h2>Summary</h2>
     <p>Energia use QlikView for internal users and Qlik Sense for external users. Currently Neueda MS only supports their internal QlikView environments.</p>
 <h2>Environment Links</h2>
@@ -104,7 +105,7 @@ Open the app and scan the QR displayed on your computer browser screen (if appli
 <p><img src="/EnergiaDocs/Energia8.png" alt="List of documents offered by BeyondTrust"/></p><br></br>
 <p>BeyondTrust’s Demo Walkthrough: https://bomgar.wistia.com/medias/h4x5qkqomj</p><br></br>
 <p><img src="/EnergiaDocs/Energia9.png" alt="Image of BeyondTrust's demo"/></p><br></br>
-<h1>How To Re-Run Energia Task Failures</h1>
+<h2>How To Re-Run Energia Task Failures</h2>
 <p>Damien Burns has requested that we monitor the tasks on the Energia Production Environment and re-run them if / when they fail.</p><br></br>
 <h2>Instructions</h2>
 <p>Connect to server ENR-QLIK-PUB1 using the BeyondTrust portal, either via https://remote.energiagroup.com/login/challenge or via the Windows app if installed.
