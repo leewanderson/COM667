@@ -9,7 +9,7 @@ return (
         style={{ backgroundImage: `url(${NIEImage})` }}
     ></div>
     <div className="aboutBottom">
-        <h1>NIE Monitoring</h1>
+        <h1>NIE Onboarding</h1>
         <h2>Northern Ireland Electricity Summary</h2>
         <p>NIE uses Qlikview for application reporting. Atos runs first and second line support for Qlik, passing any third level support queries to V1. Version 1 supports the following applications:</p>
         <p>•Pricing </p>

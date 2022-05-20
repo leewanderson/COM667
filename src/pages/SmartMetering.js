@@ -9,7 +9,7 @@ return (
         style={{ backgroundImage: `url(${SmartMeteringImage})` }}
     ></div>
     <div className="aboutBottom">
-        <h1>Energia Smart Metering</h1>
+        <h1>Smart Metering Onboarding</h1>
         <h2>Service Hours</h2>
         <p>08:00am to 20:00pm Monday to Friday excluding NI and ROI public holidays</p>
         <p>An out of hours service is available for critical incident resolution. For the avoidance of doubt,

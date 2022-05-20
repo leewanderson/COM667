@@ -4,12 +4,13 @@ import "../styles/Project.css";
 function CIE() {
 return (
     <div className="about">
+    <title>CIE</title>
     <div
         className="aboutTop"
         style={{ backgroundImage: `url(${CIEImage})` }}
     ></div>
     <div className="aboutBottom">
-        <h1>CIE Monitoring</h1>
+        <h1>CIE Onboarding</h1>
         <h2>Córas Iompair Éireann</h2>
         <h3>Summary</h3>
         <p>A public transport company in the South of Ireland, CIE uses QlikSense for business reporting. We have a support agreement to provide level 3 Qlik support to Qlik itself.
