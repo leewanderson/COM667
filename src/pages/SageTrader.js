@@ -196,7 +196,7 @@ return (
         <p>Test Connection</p>
         <b>Windows Instances (RDP)</b>
         <p>For this you need to install and configure Shrewsoft vpn https://www.shrew.net/download</p>
-        <p>Download the sagetrader_vpn.pcf file from confluence https://neueda.atlassian.net/wiki/spaces/MSKX/pages/745308301/VPN+Configs and import into Shrewsoft vpn once installed.  Credentials in 1Password.</p>
+        <p>Download the sagetrader_vpn.pcf file and import into Shrewsoft vpn once installed.  Credentials in 1Password.</p>
         <p>Connect to the vpn using the credentials in 1Password.</p>
         <p>**make sure you are not connected to any other vpns when you connect, including Lanyon vpn**</p>
         <p>Open Windows Remote Desktop Protocol (RDP) and type the IP you are trying to connect to.  Connect using the credentials in the table below (via 1Password).</p>
@@ -218,22 +218,6 @@ return (
                 <td>See 1Password for credentials</td>
             </tr>
         </table>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-
     </div>
     </div>
 );

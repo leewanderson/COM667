@@ -151,21 +151,6 @@ return (
             <td>https://gitlab.com/neueda/budget_energy.git</td>
         </tr>
         </table>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-        <p></p>
-
     </div>
     </div>
 );

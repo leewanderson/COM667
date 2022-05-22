@@ -262,7 +262,7 @@ return (
         <td>Production Backup</td>
         <td>To startup in place of the production environment incase of a region failure on Azure.</td>
     </tr>
-    /</table>
+    </table>
     <h2>Points of Contact</h2>
     <h3>Key Stakeholders</h3>
     <b>Sucden</b>
